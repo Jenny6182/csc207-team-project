@@ -46,6 +46,7 @@ Giving constructive feedback (start with something good, etc.)
     - Complete reading before lecture, listening and participating in group discussions in lecture.
     - Agree on a soft deadline for various tasks (which needs to be before the hard deadline).
     - Before merging or actually changing code, notify the entire team and make sure they are ok with it.
+    - If someone needs help, try to help them if you can.
 
 ---
 
