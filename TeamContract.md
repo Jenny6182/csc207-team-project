@@ -82,4 +82,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-Hannah Bibi Aarfah Emambocus, Zahra Buchanan, Keito Hara, Haizhiling Lyu, Ching-Yu (Jenny) Hwang
+Hannah Bibi Aarfah Emambocus, Zahra  Buchanan, Keito Hara, Haizhiling Lyu, Ching-Yu (Jenny) Hwang
